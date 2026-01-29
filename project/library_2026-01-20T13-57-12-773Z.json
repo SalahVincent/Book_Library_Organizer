@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Pendragon",
+    "author": "Dj McHale",
+    "genre": "Sci-Fi",
+    "status": "Read"
+  },
+  {
+    "id": 2,
+    "title": "Harry Potter",
+    "author": "J.K Rowling",
+    "genre": "Fantasy",
+    "status": "To Read"
+  },
+  {
+    "id": 4,
+    "title": "Romeo & Juliet",
+    "author": "Shakespear",
+    "genre": "Romance",
+    "status": "Read"
+  }
+]
